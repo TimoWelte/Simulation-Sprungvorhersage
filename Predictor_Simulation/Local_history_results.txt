@@ -1,0 +1,35 @@
+state bits: 2 address bits: 16history bits: 4
+262144 bytes of memory necessary
+
+Precision test set 1: 0.421533
+Precision test set 2: 0.948917
+Precision test set 3: 0.839276
+Precision test set 4: 0.918069
+state bits: 2 address bits: 16history bits: 3
+131072 bytes of memory necessary
+
+Precision test set 1: 0.448905
+Precision test set 2: 0.9536
+Precision test set 3: 0.873277
+Precision test set 4: 0.923759
+state bits: 1 address bits: 16history bits: 3
+65536 bytes of memory necessary
+
+Precision test set 1: 0.45438
+Precision test set 2: 0.953609
+Precision test set 3: 0.873277
+Precision test set 4: 0.923761
+state bits: 1 address bits: 16history bits: 2
+32768 bytes of memory necessary
+
+Precision test set 1: 0.468978
+Precision test set 2: 0.954729
+Precision test set 3: 0.894889
+Precision test set 4: 0.925836
+state bits: 1 address bits: 16history bits: 4
+131072 bytes of memory necessary
+
+Precision test set 1: 0.436131
+Precision test set 2: 0.948924
+Precision test set 3: 0.839277
+Precision test set 4: 0.918072

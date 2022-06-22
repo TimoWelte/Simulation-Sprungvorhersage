@@ -1,0 +1,45 @@
+Gshare predictor with 3 state bits and 4 history bits
+Precision test set 1: 0.757299
+
+Precision test set 2: 0.61177
+
+Precision test set 3: 0.716666
+
+Precision test set 4: 0.602242
+
+Gshare predictor with 3 state bits and 10 history bits
+
+Precision test set 1: 0.718978
+Precision test set 2: 0.838192
+Precision test set 3: 0.92244
+Precision test set 4: 0.783339
+Gshare predictor with 3 state bits and 16 history bits
+
+Precision test set 1: 0.718978
+Precision test set 2: 0.914183
+Precision test set 3: 0.924309
+Precision test set 4: 0.884884
+Gshare predictor with 2 state bits and 10 history bits
+
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.83543
+Precision test set 3: 0.92209
+Precision test set 4: 0.775703
+Gshare predictor with 2 state bits and 14 history bits
+
+4096 bytes of memory necessary
+
+Precision test set 1: 0.790146
+Precision test set 2: 0.910364
+Precision test set 3: 0.923727
+Precision test set 4: 0.874694
+Gshare predictor with 1 state bits and 14 history bits
+
+2048 bytes of memory necessary
+
+Precision test set 1: 0.817518
+Precision test set 2: 0.870781
+Precision test set 3: 0.904375
+Precision test set 4: 0.838304
