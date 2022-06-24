@@ -13,7 +13,7 @@ Dazu wird für jede Trace Datei ein großer Vektor mit einem Paar aus zwei Integ
 Hierbei stellt das erste Element des Paars die Adresse des Branches (umgewandelt in einen 8-Byte Integer) dar, während der zweite Integer entweder 0 (kein Sprung) oder 1 (Sprung) sein kann.
 
 Anschließend wird der Benutzer gefragt, auf welchem Branch Prädiktor die Simulation ausgeführt werden soll.  
-Zu jedem Prädiktor gibt es Parameter, die ebenfalls vom Benutzer angegeben werden müssen. Falls alle Parameter korrekt angegeben wurden, wird für jeden Test die Simulation ausgeführt und die Präzision anschließend ausgegeben.  
+Zu jedem Prädiktor gibt es Parameter, die ebenfalls vom Benutzer angegeben werden müssen. Falls alle Parameter korrekt angegeben wurden, wird für jede Trace Datei die Simulation ausgeführt und die Präzision anschließend ausgegeben.  
 Zusätzlich wird jeder Simulationsdurchlauf in einer Datei abgespeichert. (Für jeden Prädiktor wird hier eine eigene “Result” Datei erzeugt)  
 Um die Simulation durchführen zu können steht für jeden Prädiktor eine eigene Klasse zur Verfügung, mit der der Prädiktor (abhängig von den angegebenen Parametern) erzeugt wird.
 
