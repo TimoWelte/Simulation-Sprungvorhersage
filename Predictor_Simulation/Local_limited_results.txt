@@ -1,0 +1,424 @@
+Local predictor with 2 state bits and 4 adress bits
+Precision test set 1: 0.804745
+Precision test set 2: 0.605704
+Precision test set 3: 0.708739
+Precision test set 4: 0.584964
+
+Local predictor with 2 state bits and 13 adress bits
+Precision test set 1: 0.790146
+Precision test set 2: 0.863133
+Precision test set 3: 0.923647
+Precision test set 4: 0.88973
+
+Local predictor with 1 state bits and 10 adress bits
+Precision test set 1: 0.810219
+Precision test set 2: 0.733341
+Precision test set 3: 0.903536
+Precision test set 4: 0.774691
+
+Local predictor with 4 state bits and 10 adress bits
+Precision test set 1: 0.640511
+Precision test set 2: 0.777473
+Precision test set 3: 0.921268
+Precision test set 4: 0.837808
+
+Local predictor with 8 state bits and 10 adress bits
+Precision test set 1: 0.308394
+Precision test set 2: 0.709847
+Precision test set 3: 0.910759
+Precision test set 4: 0.828319
+state bits: 2 address bits: 10
+Precision test set 1: 0.786496
+
+Precision test set 2: 0.775666
+
+Precision test set 3: 0.922071
+
+Precision test set 4: 0.835456
+
+state bits: 1 address bits: 10
+
+Precision test set 1: 0.810219
+Precision test set 2: 0.774691
+Precision test set 3: 0.733355
+Precision test set 4: 0.903536
+state bits: 1 address bits: 8
+
+Precision test set 1: 0.804745
+Precision test set 2: 0.673252
+Precision test set 3: 0.660724
+Precision test set 4: 0.900244
+state bits: 1 address bits: 6
+
+Precision test set 1: 0.791971
+Precision test set 2: 0.57433
+Precision test set 3: 0.610568
+Precision test set 4: 0.851796
+state bits: 1 address bits: 12
+
+Precision test set 1: 0.819343
+Precision test set 2: 0.83433
+Precision test set 3: 0.803484
+Precision test set 4: 0.90415
+state bits: 1 address bits: 14
+
+Precision test set 1: 0.817518
+Precision test set 2: 0.870781
+Precision test set 3: 0.8383
+Precision test set 4: 0.904383
+state bits: 1 address bits: 16
+
+Precision test set 1: 0.817518
+Precision test set 2: 0.874562
+Precision test set 3: 0.848738
+Precision test set 4: 0.904443
+state bits: 2 address bits: 16
+
+Precision test set 1: 0.790146
+Precision test set 2: 0.912983
+Precision test set 3: 0.88479
+Precision test set 4: 0.923779
+state bits: 3 address bits: 16
+
+Precision test set 1: 0.718978
+Precision test set 2: 0.914183
+Precision test set 3: 0.884835
+Precision test set 4: 0.924418
+state bits: 2 address bits: 10
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.83543
+Precision test set 3: 0.775686
+Precision test set 4: 0.922071
+state bits: 2 address bits: 10
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.83543
+Precision test set 3: 0.775686
+Precision test set 4: 0.922071
+state bits: 2 address bits: 10
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.83543
+Precision test set 3: 0.775686
+Precision test set 4: 0.922071
+state bits: 2 address bits: 10
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.83543
+Precision test set 3: 0.775686
+Precision test set 4: 0.922071
+state bits: 2 address bits: 10
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.83543
+Precision test set 3: 0.775686
+Precision test set 4: 0.922071
+state bits: 16 address bits: 2
+8 bytes of memory necessary
+
+Precision test set 1: 0.308394
+Precision test set 2: 0.503764
+Precision test set 3: 0.719969
+Precision test set 4: 0.525988
+state bits: 2 address bits: 16
+16384 bytes of memory necessary
+
+Precision test set 1: 0.790146
+Precision test set 2: 0.912983
+Precision test set 3: 0.923709
+Precision test set 4: 0.884806
+state bits: 1 address bits: 16
+8192 bytes of memory necessary
+
+Precision test set 1: 0.817518
+Precision test set 2: 0.874562
+Precision test set 3: 0.848738
+Precision test set 4: 0.904443
+state bits: 2 address bits: 16
+16384 bytes of memory necessary
+
+Precision test set 1: 0.790146
+Precision test set 2: 0.912983
+Precision test set 3: 0.88479
+Precision test set 4: 0.923779
+state bits: 3 address bits: 16
+24576 bytes of memory necessary
+
+Precision test set 1: 0.718978
+Precision test set 2: 0.914183
+Precision test set 3: 0.884835
+Precision test set 4: 0.924418
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686
+state bits: 2 address bits: 10
+256 bytes of memory necessary
+
+Precision test set 1: 0.786496
+Precision test set 2: 0.92204
+Precision test set 3: 0.835456
+Precision test set 4: 0.775686

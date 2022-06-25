@@ -1,0 +1,36 @@
+state bits: 2 address bits: 32
+Precision test set 1: 0.755474
+
+Precision test set 2: 0.884409
+
+Precision test set 3: 0.923417
+
+Precision test set 4: 0.912887
+
+state bits: 3 address bits: 32
+Precision test set 1: 0.70073
+
+Precision test set 2: 0.884933
+
+Precision test set 3: 0.924102
+
+Precision test set 4: 0.914122
+
+state bits: 16 address bits: 32
+Precision test set 1: 0.308394
+
+Precision test set 2: 0.479906
+
+Precision test set 3: 0.503768
+
+Precision test set 4: 0.573392
+
+state bits: 3 address bits: 32
+Precision test set 1: 0.70073
+
+Precision test set 2: 0.914095
+
+Precision test set 3: 0.884956
+
+Precision test set 4: 0.924119
+

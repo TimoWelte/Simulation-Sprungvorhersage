@@ -1,0 +1,108 @@
+Global predictor with 2 state bits and 4 history bits
+Precision test set 1: 0.691606
+
+Precision test set 2: 0.613174
+
+Precision test set 3: 0.871113
+
+Precision test set 4: 0.593467
+
+Global predictor with 3 state bits and 6 history bits
+Precision test set 1: 0.629562
+
+Precision test set 2: 0.655621
+
+Precision test set 3: 0.899713
+
+Precision test set 4: 0.678844
+
+Global predictor with 2 state bits and 4 history bits
+
+Precision test set 1: 0.691606
+Precision test set 2: 0.593463
+Precision test set 3: 0.61317
+Precision test set 4: 0.871113
+Global predictor with 2 state bits and 8 history bits
+
+Precision test set 1: 0.666058
+Precision test set 2: 0.747358
+Precision test set 3: 0.698859
+Precision test set 4: 0.903419
+Global predictor with 1 state bits and 8 history bits
+
+Precision test set 1: 0.715328
+Precision test set 2: 0.688271
+Precision test set 3: 0.891374
+Precision test set 4: 0.65478
+Global predictor with 2 state bits and 8 history bits
+
+Precision test set 1: 0.666058
+Precision test set 2: 0.747358
+Precision test set 3: 0.903412
+Precision test set 4: 0.698879
+Global predictor with 2 state bits and 8 history bits
+
+Precision test set 1: 0.666058
+Precision test set 2: 0.747358
+Precision test set 3: 0.903412
+Precision test set 4: 0.698879
+Global predictor with 2 state bits and 10 history bits
+
+Precision test set 1: 0.596715
+Precision test set 2: 0.848873
+Precision test set 3: 0.911264
+Precision test set 4: 0.771097
+Global predictor with 2 state bits and 12 history bits
+
+Precision test set 1: 0.576642
+Precision test set 2: 0.908424
+Precision test set 3: 0.917497
+Precision test set 4: 0.835485
+Global predictor with 3 state bits and 12 history bits
+
+Precision test set 1: 0.505474
+Precision test set 2: 0.912166
+Precision test set 3: 0.918552
+Precision test set 4: 0.828532
+Global predictor with 3 state bits and 14 history bits
+
+Precision test set 1: 0.476277
+Precision test set 2: 0.943493
+Precision test set 3: 0.920933
+Precision test set 4: 0.860633
+Global predictor with 3 state bits and 20 history bits
+
+Precision test set 1: 0.427007
+Precision test set 2: 0.961558
+Precision test set 3: 0.912977
+Precision test set 4: 0.868856
+Global predictor with 3 state bits and 25 history bits
+
+Precision test set 1: 0.395985
+Precision test set 2: 0.96206
+Precision test set 3: 0.89576
+Precision test set 4: 0.850894
+Global predictor with 2 state bits and 10 history bits
+
+256 bytes of memory necessary
+
+Precision test set 1: 0.596715
+Precision test set 2: 0.848873
+Precision test set 3: 0.911264
+Precision test set 4: 0.771097
+Global predictor with 2 state bits and 14 history bits
+
+4096 bytes of memory necessary
+
+Precision test set 1: 0.541971
+Precision test set 2: 0.942488
+Precision test set 3: 0.921894
+Precision test set 4: 0.875372
+Global predictor with 2 state bits and 16 history bits
+
+16384 bytes of memory necessary
+
+Precision test set 1: 0.516423
+Precision test set 2: 0.954724
+Precision test set 3: 0.924542
+Precision test set 4: 0.895787

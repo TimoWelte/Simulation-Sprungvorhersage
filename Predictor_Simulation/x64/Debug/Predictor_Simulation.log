@@ -1,0 +1,18 @@
+﻿  Predictor_Simulation.cpp
+C:\Users\Timo\OneDrive - stud.hs-kempten.de\2. Semester\courses\Rechnerarchitektur\Projekt\Simulation_neu\Predictor_Simulation\Tournament.h(60,22): warning C4805: '==': unsafe mix of type 'const bool' and type '_Ty2' in operation
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Timo\OneDrive - stud.hs-kempten.de\2. Semester\courses\Rechnerarchitektur\Projekt\Simulation_neu\Predictor_Simulation\Predictor_Simulation.cpp(40,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Timo\OneDrive - stud.hs-kempten.de\2. Semester\courses\Rechnerarchitektur\Projekt\Simulation_neu\Predictor_Simulation\Predictor_Simulation.cpp(57,122): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Timo\OneDrive - stud.hs-kempten.de\2. Semester\courses\Rechnerarchitektur\Projekt\Simulation_neu\Predictor_Simulation\Predictor_Simulation.cpp(57,27): warning C4244: 'initializing': conversion from 'double' to 'const size_t', possible loss of data
+C:\Users\Timo\OneDrive - stud.hs-kempten.de\2. Semester\courses\Rechnerarchitektur\Projekt\Simulation_neu\Predictor_Simulation\Predictor_Simulation.cpp(80,75): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Timo\OneDrive - stud.hs-kempten.de\2. Semester\courses\Rechnerarchitektur\Projekt\Simulation_neu\Predictor_Simulation\Predictor_Simulation.cpp(80,27): warning C4244: 'initializing': conversion from 'double' to 'const size_t', possible loss of data
+C:\Users\Timo\OneDrive - stud.hs-kempten.de\2. Semester\courses\Rechnerarchitektur\Projekt\Simulation_neu\Predictor_Simulation\Predictor_Simulation.cpp(103,69): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Timo\OneDrive - stud.hs-kempten.de\2. Semester\courses\Rechnerarchitektur\Projekt\Simulation_neu\Predictor_Simulation\Predictor_Simulation.cpp(103,27): warning C4244: 'initializing': conversion from 'double' to 'const size_t', possible loss of data
+C:\Users\Timo\OneDrive - stud.hs-kempten.de\2. Semester\courses\Rechnerarchitektur\Projekt\Simulation_neu\Predictor_Simulation\Predictor_Simulation.cpp(128,79): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Timo\OneDrive - stud.hs-kempten.de\2. Semester\courses\Rechnerarchitektur\Projekt\Simulation_neu\Predictor_Simulation\Predictor_Simulation.cpp(128,27): warning C4244: 'initializing': conversion from 'double' to 'const size_t', possible loss of data
+C:\Users\Timo\OneDrive - stud.hs-kempten.de\2. Semester\courses\Rechnerarchitektur\Projekt\Simulation_neu\Predictor_Simulation\Predictor_Simulation.cpp(154,79): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Timo\OneDrive - stud.hs-kempten.de\2. Semester\courses\Rechnerarchitektur\Projekt\Simulation_neu\Predictor_Simulation\Predictor_Simulation.cpp(154,27): warning C4244: 'initializing': conversion from 'double' to 'const size_t', possible loss of data
+  Predictor_Simulation.vcxproj -> C:\Users\Timo\OneDrive - stud.hs-kempten.de\2. Semester\courses\Rechnerarchitektur\Projekt\Simulation_neu\x64\Debug\Predictor_Simulation.exe
